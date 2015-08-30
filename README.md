@@ -3,10 +3,10 @@
 RailsLite is a lightweight version of Ruby-on-Rails built from scratch, featuring
 some of the basic functionality from Rails.
 
-It also implements ActiveRecordLite a lightweight version of ActiveRecord including
-fully featured associations.
+It also implements ActiveRecordLite- a lightweight version of ActiveRecord that
+includes fully featured associations and table modification/lookup methods.
 
-The goal of this project was to gain a thorough understanding of Ruby-onRails,
+The goal of this project was to gain a thorough understanding of Ruby-on-Rails,
 ActiveRecord, and backend frameworks in general.
 
 ##Features
